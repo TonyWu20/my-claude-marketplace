@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "My marketplace",
+  "name": "my-claude-marketplace",
   "description": "My plugin marketplace.",
   "owner": {
     "name": "TonyWu20"
