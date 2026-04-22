@@ -27,6 +27,28 @@
         "planning",
         "implementation"
       ]
+    },
+    {
+      "name": "fortran-dev-pipeline",
+      "description": "Orchestrates a complete Fortran development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
+      "version": "1.0.0",
+      "author": {
+        "name": "TonyWu20"
+      },
+      "source": {
+        "source": "github",
+        "repo": "TonyWu20/fortran-dev-pipeline",
+        "ref": "main"
+      },
+      "category": "development",
+      "tags": [
+        "fortran",
+        "code-review",
+        "agents",
+        "pipeline",
+        "planning",
+        "implementation"
+      ]
     }
   ]
 }
