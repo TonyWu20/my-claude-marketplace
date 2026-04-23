@@ -31,7 +31,7 @@
     {
       "name": "fortran-dev-pipeline",
       "description": "Orchestrates a complete Fortran development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
-      "version": "1.1.1",
+      "version": "1.2.0",
       "author": {
         "name": "TonyWu20"
       },
