@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "rust-development-pipeline-split",
+      "name": "rust-development-pipeline",
       "description": "Orchestrates a complete Rust development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
       "version": "2.2.0-beta",
       "author": {
