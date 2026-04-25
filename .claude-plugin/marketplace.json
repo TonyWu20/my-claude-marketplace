@@ -7,6 +7,28 @@
   },
   "plugins": [
     {
+      "name": "rust-development-pipeline-split",
+      "description": "Orchestrates a complete Rust development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
+      "version": "2.2.0-beta",
+      "author": {
+        "name": "TonyWu20"
+      },
+      "source": {
+        "source": "github",
+        "repo": "TonyWu20/rust-development-pipeline",
+        "ref": "feature/split-session-pipeline"
+      },
+      "category": "development",
+      "tags": [
+        "rust",
+        "code-review",
+        "agents",
+        "pipeline",
+        "planning",
+        "implementation"
+      ]
+    },
+    {
       "name": "rust-development-pipeline",
       "description": "Orchestrates a complete Rust development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
       "version": "2.1.1",
