@@ -53,7 +53,7 @@
     {
       "name": "claude-code-discord-bot-hooks",
       "description": "Routes Claude Code hook events to a Discord channel — approval requests, notifications, and session stop signals — with interactive Approve/Deny buttons. Also provides slash commands to inspect active sessions and conversation history.",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "author": {
         "name": "TonyWu20"
       },
