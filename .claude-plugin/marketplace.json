@@ -9,7 +9,7 @@
     {
       "name": "rust-development-pipeline",
       "description": "Orchestrates a complete Rust development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
-      "version": "2.2.2-beta",
+      "version": "2.2.2-beta-v2",
       "author": {
         "name": "TonyWu20"
       },
