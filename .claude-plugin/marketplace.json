@@ -71,5 +71,26 @@
         "bot"
       ]
     }
+  ,
+    {
+      "name": "no-bare-python",
+      "description": "Blocks bare python/python3 in Bash calls. Enforces uv run python per CLAUDE.md.",
+      "version": "0.1.0",
+      "author": {
+        "name": "TonyWu20"
+      },
+      "source": {
+        "source": "github",
+        "repo": "TonyWu20/no-bare-python",
+        "ref": "main"
+      },
+      "category": "development",
+      "tags": [
+        "python",
+        "hooks",
+        "enforcement",
+        "uv"
+      ]
+    }
   ]
 }
