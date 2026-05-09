@@ -90,6 +90,28 @@
         "enforcement",
         "uv"
       ]
+    },
+    {
+      "name": "no-find-grep",
+      "description": "Blocks bare find/grep in Bash calls. Enforces fd/rg per CLAUDE.md.",
+      "version": "0.1.0",
+      "author": {
+        "name": "TonyWu20"
+      },
+      "source": {
+        "source": "github",
+        "repo": "TonyWu20/no-find-grep",
+        "ref": "main"
+      },
+      "category": "development",
+      "tags": [
+        "find",
+        "grep",
+        "hooks",
+        "enforcement",
+        "fd",
+        "rg"
+      ]
     }
   ]
 }
