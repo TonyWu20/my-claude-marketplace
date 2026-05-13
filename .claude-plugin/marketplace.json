@@ -29,6 +29,29 @@
       ]
     },
     {
+      "name": "wait-for-lsp",
+      "description": "LSP proxy that filters stale publishDiagnostics between Claude Code and any LSP server (Rust, Python, Fortran), preventing fix loops caused by outdated diagnostics",
+      "version": "0.2.0",
+      "author": {
+        "name": "TonyWu20"
+      },
+      "source": {
+        "source": "github",
+        "repo": "TonyWu20/wait-for-lsp",
+        "ref": "main"
+      },
+      "category": "development",
+      "tags": [
+        "lsp",
+        "proxy",
+        "diagnostics",
+        "rust",
+        "python",
+        "fortran",
+        "filtering"
+      ]
+    },
+    {
       "name": "fortran-dev-pipeline",
       "description": "Orchestrates a complete Fortran development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
       "version": "1.2.0",
