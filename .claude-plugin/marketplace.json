@@ -95,6 +95,29 @@
       ]
     },
     {
+      "name": "odd-pipeline",
+      "description": "Outcome-Driven Development pipeline for Claude Code — orchestrates planning, implementation with real build feedback, and review through specialized agents and skills. Language-agnostic with per-project configuration.",
+      "version": "0.1.0",
+      "author": {
+        "name": "TonyWu20"
+      },
+      "source": {
+        "source": "github",
+        "repo": "TonyWu20/odd-pipeline",
+        "ref": "main"
+      },
+      "category": "development",
+      "tags": [
+        "odd",
+        "outcome-driven",
+        "pipeline",
+        "planning",
+        "implementation",
+        "review",
+        "language-agnostic"
+      ]
+    },
+    {
       "name": "no-bare-python",
       "description": "Blocks bare python/python3 in Bash calls. Enforces uv run python per CLAUDE.md.",
       "version": "0.1.0",
