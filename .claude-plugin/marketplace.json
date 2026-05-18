@@ -9,14 +9,14 @@
     {
       "name": "rust-development-pipeline",
       "description": "Orchestrates a complete Rust development pipeline from architectural planning through code review, fix generation, and deterministic execution via TOML plans and compiled sd-based scripts",
-      "version": "3.0.2-beta",
+      "version": "4.0.0",
       "author": {
         "name": "TonyWu20"
       },
       "source": {
         "source": "github",
         "repo": "TonyWu20/rust-development-pipeline",
-        "ref": "refactor-discuss"
+        "ref": "main"
       },
       "category": "development",
       "tags": [
